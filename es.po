@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2022-11-26 15:05+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5\n"
+
+#: main.py:12
+msgid "Welcome player!"
+msgstr "Bienvenido jugador"
+
+#: main.py:15
+msgid "Enter your username for the game: "
+msgstr "Introduce tu nombre de usuario para el juego: "
+
+#: main.py:18
+msgid "%s, you have to guess a number between 0 and 100"
+msgstr "%s, tienes que adivinar un número entre 0 y 100"
+
+#: main.py:33
+msgid "Congratulations %s! You got the number right!"
+msgstr "¡Felicidades %s! ¡Tienes el número correcto!"
+
+#: main.py:36
+msgid "The number is smaller than %d"
+msgstr "El número es menor que %d"
+
+#: main.py:38
+msgid "The number is greater than %d"
+msgstr "El número es mayor que %d"
+
+#: main.py:43
+msgid "Wow... looks like you've run out of tries. the number was %d"
+msgstr "Vaya... parece que te has quedado sin intentos. el numero era %d"
+
+#: main.py:50
+msgid "Attempt %d, what do you think the number is? "
+msgstr "Intento %d, ¿cuál crees que es el número? "
+
+#: main.py:52
+msgid "We want honest players... and who don't play the fool so much!"
+msgstr "¡Queremos jugadores honestos... y que no se hagan tanto el tonto!"
+
+#: main.py:61
+msgid "How many attempts do you want to do? "
+msgstr "¿Cuántos intentos quieres hacer? "
+
+#: main.py:63
+msgid "We want honest players... and who don't play the fool so much!"
+msgstr "¡Queremos jugadores honestos... y que no se hagan tanto el tonto!"
+
+#: main.py:67
+msgid "At least try once %s!"
+msgstr "¡Al menos inténtalo una vez %s!"
+
+#: main.py:69
+msgid "I don't think negative attempts can be made..."
+msgstr "No creo que se puedan hacer intentos negativos..."
